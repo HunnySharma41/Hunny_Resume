@@ -1,6 +1,6 @@
 # Hunny_Resume
-#Education
+##Education
 B.E. Mechanical
 M.A. History 
-#Experience 
+##Experience 
 worked as an Assistant locopilot for Indian Railways 
